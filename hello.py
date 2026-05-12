@@ -1,4 +1,5 @@
 print("Hello, GitHub!")
-print("This is my first project.")
-print("I am learning how to use GitHub.")
-print("I am excited to share my code with others.")git 
+print("Hello, GitHub!")
+print("This is a simple Python script to demonstrate Git version control.")
+print("You can make changes to this file and commit them to see how Git tracks changes.")
+print("Feel free to experiment with Git commands like 'git add', 'git commit', and 'git push' to manage your code.")
